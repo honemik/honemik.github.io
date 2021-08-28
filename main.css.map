@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "D:/temp/hugo_extended_0.87.0_Windows-64bit/honeymilk",
+	"sourceRoot": "D:/code/static website/hugo_extended_0.87.0_Windows-64bit/honeymilk",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",

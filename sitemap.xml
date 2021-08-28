@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://supbg1.github.io/about/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supbg1.github.io/series/art/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://supbg1.github.io/art/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://supbg1.github.io/series/blog/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://supbg1.github.io/posts/my-first-post/</loc>
+    <loc>https://supbg1.github.io/posts/08-28-my-first-post/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://supbg1.github.io/</loc>
@@ -17,27 +26,11 @@
     <loc>https://supbg1.github.io/series/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://supbg1.github.io/posts/my-first-post-%E8%A4%87%E8%A3%BD/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://supbg1.github.io/tags/development/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://supbg1.github.io/tags/go/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://supbg1.github.io/tags/golang/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://supbg1.github.io/tags/hugo/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://supbg1.github.io/series/hugo-101/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://supbg1.github.io/tags/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <loc>https://supbg1.github.io/art/08-28-test/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://supbg1.github.io/blog/</loc>
+  </url><url>
+    <loc>https://supbg1.github.io/tags/</loc>
   </url>
 </urlset>
