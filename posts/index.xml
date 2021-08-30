@@ -4,24 +4,6 @@
 <p>終於開始寫自己的共筆了，有點興奮，也真的希望自己能把它完成，然後使用這個共筆度過國考。</p>
 <p>共筆說實在話，我真的很討厭這種半強制的制度。到底哪個腦筋正常的會想寫共筆，當然是看學長姐的就好啊XDD，誰還浪費時間做共筆，讀都來不及了。但總歸，會覺得共筆無用或浪費時間，我覺得單純是因為大家目標不同，又沒有統一的平台。現在都有markdown這種方便的工具了，當然是用這種東西比較方便，又好編輯。所以既然沒有人想弄，就決定自己生一個了。雖然有像題庫豹之類的考古網可以做使用，但是一方面我覺得太商業了，一方面，內心資工的小火苗告訴我，就是要用git才夠潮(並沒有。總之，去了考選部的網站，發現有夠難用，真的是內心一把火。</p>
 <p>另外，這周也發現github action如何正常的使用，很有趣，很方便，難怪會有人覺得網路上的社群真的是世界推動的力量，使用之後真的深感認同。最近大概是我真的認真碰github的一段時間了，希望開學之後我還能維持一周更新一篇。</p>
-]]></content></item><item><title>Finally have my own website</title><link>https://supbg1.github.io/posts/08-28-my-first-post/</link><pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate><guid>https://supbg1.github.io/posts/08-28-my-first-post/</guid><description>Finally!!!
-It took me all day to make it work. It&amp;rsquo;s not my first time to build a website, but they are all simple html webpage. This, on the other hand, is really complex. To build this, I read the Hugo docs, picked the right theme for me, and tweaked the config. It is way harder than I thought. Wish I can constantly update.
-成功完成拉!!
-天啊，搞這東西搞超久，算是第一次架這種複雜的靜態網站，很開心
-以前大概只有碰過簡單的html跟JS，沒有這樣用正常的framework去生網站過，算是一個自己的里程碑吧， 這次光搞hugo跟theme相容的問題就搞好久，原本還想要搞一個CMS，但是又不是很喜歡netlify或forestry， 最後還是萬能的notepad++就好了XD。
-最後給自己一點目標吧，希望這個網站能定時更新，主要更新遊戲計畫的進度跟圖吧，也希望寫一些英文，增強自己 的寫作，也希望最後能當作自己的portfolio使用</description><content type="html"><![CDATA[<p><strong>Finally!!!</strong></p>
-<p>It took me all day to make it work. It&rsquo;s not my first time to build a website,
-but they are all simple html webpage. This, on the other hand, is really complex.
-To build this, I read the Hugo docs, picked the right theme for me, and tweaked the
-config. It is way harder than I thought. Wish I can constantly update.</p>
-<p><strong>成功完成拉!!</strong></p>
-<p>天啊，搞這東西搞超久，算是第一次架這種複雜的靜態網站，很開心</p>
-<p>以前大概只有碰過簡單的html跟JS，沒有這樣用正常的framework去生網站過，算是一個自己的里程碑吧，
-這次光搞hugo跟theme相容的問題就搞好久，原本還想要搞一個CMS，但是又不是很喜歡netlify或forestry，
-最後還是萬能的notepad++就好了XD。</p>
-<p>最後給自己一點目標吧，希望這個網站能定時更新，主要更新遊戲計畫的進度跟圖吧，也希望寫一些英文，增強自己
-的寫作，也希望最後能當作自己的portfolio使用</p>
-<p>最後 希望大家能夠順順利利，平平安安:)</p>
 ]]></content></item><item><title>Finally have my own website</title><link>https://supbg1.github.io/posts/2021-08-28/</link><pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate><guid>https://supbg1.github.io/posts/2021-08-28/</guid><description>Finally!!!
 It took me all day to make it work. It&amp;rsquo;s not my first time to build a website, but they are all simple html webpage. This, on the other hand, is really complex. To build this, I read the Hugo docs, picked the right theme for me, and tweaked the config. It is way harder than I thought. Wish I can constantly update.
 成功完成拉!!
