@@ -71,6 +71,10 @@ paginate     = 10
     identifier = "about"
     name       = "About"
     url        = "/about"
+  [[menu.main]]
+    identifier = "TMSCN"
+    name       = "TMSCN"
+    url        = "https://supbg1.github.io/TMSCN/"
 
 
 
