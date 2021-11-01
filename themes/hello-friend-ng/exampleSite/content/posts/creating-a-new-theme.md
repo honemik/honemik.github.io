@@ -1,17 +1,16 @@
 ---
+title: Creating a New Theme
+date: 2014-09-28 00:00:00 Z
 author:
-  name: "Michael Henderson"
-date: 2014-09-28
+  name: Michael Henderson
 linktitle: Creating a New Theme
 type:
 - post
 - posts
-title: Creating a New Theme
 weight: 10
 series:
 - Hugo 101
 ---
-
 
 ## Introduction
 
