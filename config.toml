@@ -41,7 +41,7 @@ paginate     = 10
 [languages]
   [languages.en]
     title = "Honeymilk"
-    subtitle = "A simple theme for Hugo"
+    subtitle = "蜂蜜牛奶"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -63,10 +63,6 @@ paginate     = 10
     identifier = "art"
     name       = "Art"
     url        = "/art"
-  [[menu.main]]
-    identifier = "alpha"
-    name       = "alpha"
-    url        = "/alpha.html"
   [[menu.main]]
     identifier = "about"
     name       = "About"
