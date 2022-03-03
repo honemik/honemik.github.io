@@ -71,7 +71,10 @@ paginate     = 10
     identifier = "TMSCN"
     name       = "TMSCN"
     url        = "https://supbg1.github.io/TMSCN/"
-
+  [[menu.main]]
+    identifier = "TMUWSI"
+    name       = "TMUWSI"
+    url        = "https://supbg1.github.io/TMUWSI/"
 
 
 [markup]
