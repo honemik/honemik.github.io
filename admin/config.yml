@@ -1,0 +1,25 @@
+backend:
+  name: git-gateway
+local_backend: true
+media_folder: media_folder
+
+collections:
+  - name: post
+    label: Post
+    folder: 'content/posts'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}'
+    format: toml-frontmatter
+    fields:
+      - { name: title, label: Title}
+      - { label: 'Publish Date', name: 'date', widget: 'date' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Type', name: 'type', widget: 'list', allow_add: true, default: ["posts", "post"]}
+      - { label: 'Categories', name: 'categories', allow_add: true, widget: 'list', default: ["life"]}
+      - { label: 'series', name: 'series', widget: 'list', default: ["Blog"] }
+      - label: "Author"
+        name: 'author'
+        widget: 'object'
+        fields: 
+          - { name: "Name", label: 'name', widget: 'string', default: "Honeymilk"}
+      - { name: 'body', label: 'Body', widget: 'markdown' }
