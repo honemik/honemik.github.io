@@ -1,14 +1,15 @@
+@echo off
 start cmd /k "npx netlify-cms-proxy-server"
 start hugo server
-start cmd /k ""C:\Program Files\Mozilla Firefox\firefox.exe" 127.0.0.1:1313/admin" 
+"C:\Program Files\Mozilla Firefox\firefox.exe" 127.0.0.1:1313/admin
 pause
 echo "-------Begin-------"
 git status
 set msg=update
-set /p msg=è¯·è¾“å…¥æäº¤æ³¨é‡Š:
+set /p msg=commit°T®§:
 git add -A
 git commit -m %msg% 
 git push
-echo æ¨é€æˆåŠŸâˆšï¼šã€%msg%ã€‘
+echo ¦¨¥\¤W¶Çmsg%??
 echo "-------End-------"
 pause
