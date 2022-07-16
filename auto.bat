@@ -10,6 +10,6 @@ set /p msg=commit訊息:
 git add -A
 git commit -m %msg% 
 git push
-echo 成功上傳msg%??
+echo 成功上傳msg%
 echo "-------End-------"
 pause
