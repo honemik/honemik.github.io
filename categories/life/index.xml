@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>life on honemik</title>
+    <link>https://honemik.github.io/categories/life/</link>
+    <description>Recent content in life on honemik</description>
+    <image>
+      <title>honemik</title>
+      <url>https://honemik.github.io/papermod-cover.png</url>
+      <link>https://honemik.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://honemik.github.io/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>年末</title>
+      <link>https://honemik.github.io/post/2021-12-30/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://honemik.github.io/post/2021-12-30/</guid>
+      <description>看了動畫，瘋狂讀書</description>
+    </item>
+    
+  </channel>
+</rss>
