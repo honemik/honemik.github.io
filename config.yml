@@ -35,7 +35,7 @@ languages:
                   url: tags/
                   weight: 10
                 - name: TMSCN
-                  url: https://supbg1.github.io/TMSCN/
+                  url: https://honemik.github.io/TMSCN/
 
 outputs:
     home:
