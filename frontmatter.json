@@ -1,0 +1,71 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },{
+          "title": "author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "ShowToc",
+          "name": "ShowToc",
+          "type": "boolean"
+        },
+        {
+          "title": "ShowBreadCrumbs",
+          "name": "ShowBreadCrumbs",
+          "type": "boolean"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "post",
+      "path": "[[workspace]]/content/post",
+      "filePrefix": "yyyy-mm-dd"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [
+    "Blog"
+  ],
+  "frontMatter.taxonomy.categories": [
+    "anime",
+    "life"
+  ],
+  "frontMatter.content.autoUpdateDate": false,
+  "frontMatter.framework.startCommand": "D:\\code\\temp\\新增資料夾\\honeymilk\\hugo server -D"
+}
