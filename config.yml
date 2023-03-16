@@ -36,6 +36,8 @@ languages:
                   weight: 10
                 - name: TMSCN
                   url: https://honemik.github.io/TMSCN/
+                - name: TMSCN-wiki
+                  url: https://honemik.github.io/TMSCN-wiki/
 
 outputs:
     home:
