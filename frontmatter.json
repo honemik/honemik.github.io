@@ -15,7 +15,8 @@
           "title": "Description",
           "name": "description",
           "type": "string"
-        },{
+        },
+        {
           "title": "author",
           "name": "author",
           "type": "string"
@@ -67,5 +68,6 @@
     "life"
   ],
   "frontMatter.content.autoUpdateDate": false,
-  "frontMatter.framework.startCommand": "D:\\code\\temp\\新增資料夾\\honeymilk\\hugo server -D"
+  "frontMatter.framework.startCommand": "D:\\code\\temp\\新增資料夾\\honeymilk\\hugo server -D",
+  "frontMatter.preview.host": "http://localhost:1313/"
 }
