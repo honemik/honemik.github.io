@@ -37,7 +37,7 @@ languages:
                 - name: TMSCN
                   url: https://honemik.github.io/TMSCN/
                 - name: TMSCN-wiki
-                  url: https://honemik.github.io/TMSCN-wiki/
+                  url: https://honemik.github.io/TMSCN-wiki/TMSCN.html
 
 outputs:
     home:
