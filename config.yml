@@ -95,6 +95,8 @@ params:
           url: "index.xml"
         - name: Email
           url: "fuyu1106@proton.me"
+        - name: Podcast
+          url: "https://open.firstory.me/rss/user/clguv3rts02b101tb7ryc0pha"
 
     editPost:
         URL: ""
