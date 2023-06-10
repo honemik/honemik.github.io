@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Game on honemik</title>
+    <link>https://honemik.github.io/tags/game/</link>
+    <description>Recent content in Game on honemik</description>
+    <image>
+      <title>honemik</title>
+      <url>https://honemik.github.io/papermod-cover.png</url>
+      <link>https://honemik.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://honemik.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SFC 卡比之星超級豪華版 - 遊玩心得</title>
+      <link>https://honemik.github.io/post/2023-06-10/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://honemik.github.io/post/2023-06-10/</guid>
+      <description>粉紅惡魔遇上超級任天堂</description>
+    </item>
+    
+  </channel>
+</rss>
