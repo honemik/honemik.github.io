@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://honemik.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://honemik.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>技術性的東西真的比較有趣</title>
+      <link>https://honemik.github.io/post/2024-02-26/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://honemik.github.io/post/2024-02-26/</guid>
+      <description>note</description>
+    </item>
+    
     <item>
       <title>為了讀書所以寫了刷考古的軟體</title>
       <link>https://honemik.github.io/post/2024-01-28/</link>
