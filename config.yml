@@ -41,7 +41,7 @@ languages:
                 - name: learnjpn
                   url: https://honemik.github.io/japanese/japanese-learning-summarize.html
                 - name: mednote
-                  url: https://honemik.github.io/japanese/mednote.html
+                  url: https://honemik.github.io/mednote/mednote.html
 
 outputs:
     home:
