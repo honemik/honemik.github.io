@@ -22,7 +22,7 @@ collections:
         name: "tags"
         widget: "select"
         multiple: true
-        options: ["Blog", "Game"]
+        options: ["Blog", "Game","Note"]
         default: ["Blog"]
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "ShowToc", name: "ShowToc", widget: "boolean", default: true}
