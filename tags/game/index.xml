@@ -9,44 +9,37 @@
       <url>https://honemik.github.io/papermod-cover.png</url>
       <link>https://honemik.github.io/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://honemik.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://honemik.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>遊戲製作筆記#2</title>
       <link>https://honemik.github.io/post/2023-09-04/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://honemik.github.io/post/2023-09-04/</guid>
       <description>note</description>
     </item>
-    
     <item>
       <title>遊戲製作筆記#1</title>
       <link>https://honemik.github.io/post/2023-07-22/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://honemik.github.io/post/2023-07-22/</guid>
       <description>note</description>
     </item>
-    
     <item>
       <title>SFC 馬力歐賽車 - 遊玩心得</title>
       <link>https://honemik.github.io/post/2023-06-15/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://honemik.github.io/post/2023-06-15/</guid>
       <description>粉紅惡魔遇上超級任天堂</description>
     </item>
-    
     <item>
       <title>SFC 卡比之星超級豪華版 - 遊玩心得</title>
       <link>https://honemik.github.io/post/2023-06-10/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://honemik.github.io/post/2023-06-10/</guid>
       <description>粉紅惡魔遇上超級任天堂</description>
     </item>
-    
   </channel>
 </rss>
