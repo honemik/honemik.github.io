@@ -9,253 +9,198 @@
       <url>http://localhost:1313/papermod-cover.png</url>
       <link>http://localhost:1313/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Feb 2024 11:30:03 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Feb 2024 11:30:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>技術性的東西真的比較有趣</title>
       <link>http://localhost:1313/post/2024-02-26/</link>
       <pubDate>Mon, 26 Feb 2024 11:30:03 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2024-02-26/</guid>
       <description>note</description>
     </item>
-    
     <item>
       <title>為了讀書所以寫了刷考古的軟體</title>
       <link>http://localhost:1313/post/2024-01-28/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2024-01-28/</guid>
       <description>note</description>
     </item>
-    
     <item>
       <title>2023 耶誕城</title>
       <link>http://localhost:1313/post/2023-12-26/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2023-12-26/</guid>
       <description>with yiy ㄒㄇ ㄏㄩ</description>
     </item>
-    
     <item>
       <title>2023wirforce</title>
       <link>http://localhost:1313/post/2023-11-23/</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2023-11-23/</guid>
       <description>有點空虛</description>
     </item>
-    
     <item>
       <title>遊戲製作筆記#2</title>
       <link>http://localhost:1313/post/2023-09-04/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2023-09-04/</guid>
       <description>note</description>
     </item>
-    
     <item>
       <title>當兵紀錄</title>
       <link>http://localhost:1313/post/2023-08-24/</link>
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2023-08-24/</guid>
       <description>人生唯一的一次</description>
     </item>
-    
     <item>
       <title>遊戲製作筆記#1</title>
       <link>http://localhost:1313/post/2023-07-22/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2023-07-22/</guid>
       <description>note</description>
     </item>
-    
     <item>
       <title>SFC 馬力歐賽車 - 遊玩心得</title>
       <link>http://localhost:1313/post/2023-06-15/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2023-06-15/</guid>
       <description>粉紅惡魔遇上超級任天堂</description>
     </item>
-    
     <item>
       <title>SFC 卡比之星超級豪華版 - 遊玩心得</title>
       <link>http://localhost:1313/post/2023-06-10/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2023-06-10/</guid>
       <description>粉紅惡魔遇上超級任天堂</description>
     </item>
-    
     <item>
       <title>改用papermod theme</title>
       <link>http://localhost:1313/post/2023-14-07-test/</link>
       <pubDate>Tue, 07 Mar 2023 13:15:33 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2023-14-07-test/</guid>
       <description>煥然一新</description>
     </item>
-    
     <item>
       <title>1 2月 note</title>
       <link>http://localhost:1313/post/2023-24-10-12%E6%9C%88/</link>
       <pubDate>Tue, 28 Feb 2023 06:24:18 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2023-24-10-12%E6%9C%88/</guid>
       <description>note</description>
     </item>
-    
     <item>
       <title>新訓</title>
       <link>http://localhost:1313/post/2022-07-31/</link>
       <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2022-07-31/</guid>
       <description>第一次新訓，也是最後一次</description>
     </item>
-    
     <item>
       <title>二下</title>
       <link>http://localhost:1313/post/2022-07-16/</link>
       <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2022-07-16/</guid>
       <description>一個學期結束，又一個學期開始</description>
     </item>
-    
     <item>
       <title>使用了netlify CMS</title>
       <link>http://localhost:1313/post/2022-03-26/</link>
       <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2022-03-26/</guid>
       <description>但是是本地的XD</description>
     </item>
-    
     <item>
       <title>久久沒好好打了</title>
       <link>http://localhost:1313/post/2022-03-22/</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2022-03-22/</guid>
       <description>有些事不打下來是肯定會忘的</description>
     </item>
-    
     <item>
       <title>待補回一</title>
       <link>http://localhost:1313/post/2022-01-08/</link>
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2022-01-08/</guid>
       <description>要記得補內</description>
     </item>
-    
     <item>
       <title>年末</title>
       <link>http://localhost:1313/post/2021-12-30/</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2021-12-30/</guid>
       <description>看了動畫，瘋狂讀書</description>
     </item>
-    
     <item>
       <title>遊戲又有進度惹</title>
       <link>http://localhost:1313/post/2021-12-14/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2021-12-14/</guid>
       <description>這禮拜好像都蠻雖的</description>
     </item>
-    
     <item>
       <title>嶄新而繁忙的一周</title>
       <link>http://localhost:1313/post/2021-12-05/</link>
       <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2021-12-05/</guid>
       <description>遊戲終於有新進度</description>
     </item>
-    
     <item>
       <title>考完期中</title>
       <link>http://localhost:1313/post/2021-11-21/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2021-11-21/</guid>
       <description>累累病</description>
     </item>
-    
     <item>
       <title>水草長根了!!</title>
       <link>http://localhost:1313/post/2021-11-14/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2021-11-14/</guid>
       <description>happy week</description>
     </item>
-    
     <item>
       <title>生日!</title>
       <link>http://localhost:1313/post/2021-11-06/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2021-11-06/</guid>
       <description>birthday</description>
     </item>
-    
     <item>
       <title>arduino midi keyboard</title>
       <link>http://localhost:1313/post/2021-10-17/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2021-10-17/</guid>
       <description>use arduino and USBMidiKliK to build my midi keyboard</description>
     </item>
-    
     <item>
       <title>想法清單</title>
       <link>http://localhost:1313/post/2021-10-07/</link>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2021-10-07/</guid>
       <description>need typing</description>
     </item>
-    
     <item>
       <title>New keyboard</title>
       <link>http://localhost:1313/post/2021-09-06/</link>
       <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2021-09-06/</guid>
       <description>Trying someting new</description>
     </item>
-    
     <item>
       <title>Starting TMSCN</title>
       <link>http://localhost:1313/post/2021-08-29/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2021-08-29/</guid>
       <description>large plan, single one</description>
     </item>
-    
     <item>
       <title>Finally have my own website</title>
       <link>http://localhost:1313/post/2021-08-28/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/post/2021-08-28/</guid>
       <description>first post but not last one:)</description>
     </item>
-    
-    
-    
   </channel>
 </rss>
