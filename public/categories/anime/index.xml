@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Anime on honemik</title>
+    <link>http://localhost:1313/categories/anime/</link>
+    <description>Recent content in Anime on honemik</description>
+    <image>
+      <title>honemik</title>
+      <url>http://localhost:1313/papermod-cover.png</url>
+      <link>http://localhost:1313/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/anime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>年末</title>
+      <link>http://localhost:1313/post/2021-12-30/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2021-12-30/</guid>
+      <description>看了動畫，瘋狂讀書</description>
+    </item>
+    
+  </channel>
+</rss>
