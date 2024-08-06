@@ -11,13 +11,20 @@
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Aug 2024 22:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 15:31:00 +0000</lastBuildDate>
     <atom:link href="https://honemik.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
       <link>https://honemik.github.io/tags/blog/</link>
-      <pubDate>Sun, 04 Aug 2024 22:39:00 +0000</pubDate>
+      <pubDate>Mon, 05 Aug 2024 15:31:00 +0000</pubDate>
       <guid>https://honemik.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Note</title>
+      <link>https://honemik.github.io/tags/note/</link>
+      <pubDate>Mon, 05 Aug 2024 15:31:00 +0000</pubDate>
+      <guid>https://honemik.github.io/tags/note/</guid>
       <description></description>
     </item>
     <item>
