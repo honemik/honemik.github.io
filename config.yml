@@ -42,6 +42,8 @@ languages:
                   url: https://honemik.github.io/japanese/japanese-learning-summarize.html
                 - name: mednote
                   url: https://honemik.github.io/mednote/mednote.html
+                - name: honeynote
+                  url: https://honeynote.tiddlyhost.com/#:Index
 
 outputs:
     home:
