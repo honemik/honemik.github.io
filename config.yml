@@ -43,7 +43,7 @@ languages:
                 - name: mednote
                   url: https://honemik.github.io/mednote/mednote.html
                 - name: honeynote
-                  url: https://honeynote.tiddlyhost.com/#:Index
+                  url: https://honeynote-honemik.netlify.app/
 
 outputs:
     home:
