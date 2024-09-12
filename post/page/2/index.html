@@ -29,7 +29,17 @@
 還有一個可以看到的東西是AI，裡頭其實所有AI都是預先設定好的，到哪裡開始轉，哪裡開始加速，都是利用設置好的提示去讓AI照著指示走，節省運算資源嘛
 我自己非常推薦可以去照著做做看，並且可以玩一玩當時的開發過程使用的軟體，尤其如果自己也有在開發遊戲的，感觸應該蠻深的
 接下來講講硬體層面，我手上的是SHVC-1K1X-10，上面的IC有五個，MASKROM、SRAM、DSP1 B、MAD-2 A、CIC，ROM當然就是紀錄遊戲資料，SRAM記錄存檔，先講CIC，Checking Integrated Circuit，我的上面是D411B。用來檢查是不是正版、區域對不對，這套系統稱為10NES，裡頭有兩個晶片，一個是SHARP的SM590 4bit microcontroller，還有一個matching chip，當時有很多繞過去或想繞過去的方法，以後再講。MAD是簡單的TTL(transistor-transistor logic)，SRAM解碼用的，最後一顆是DSP1B，整個DSP系列其實都一樣，所以我們以下簡稱DSP1吧，全名是Digital Signal Processor，這顆晶片是甚麼用的呢，只要是超任上3D 空間移動的遊戲，幾乎都看的到這顆晶片，這顆就是用來執行3D空間運算的，當然他跟另外一個也是用來3D運算的Super FX不太一樣，SUPERFX幾乎是一個小型的GPU了，他負責渲染畫面出來，但DSP-1，他是用來提供偽3D的運算，主要在數學運算，在SNES 開發手冊第二本的第三部分，整整一整個第三部分都在介紹DSP-1，首先，DSP1是一顆16 bit fixed point digital signal processor，與SA-1不同，DSP是MASTER SLAVE的結構，超任接收到需要的指令就會丟給DSP，DSP運算完了再丟回去給超任，能執行的運算包刮基本算術，乘、INVERSE、三角函數，向量運算:Radius、Range、Distance，座標運算:旋轉、極座標，投影運算(projection Calculation):進行rasterization的運算，也就是光柵化，下一個是Attitude control，姿態控制，以及3D旋轉。這些都正正對應到了一個賽車遊戲或飛行模擬需要的東西。
-...</p></div><footer class=entry-footer><span title='2023-06-15 00:00:00 +0000 UTC'>June 15, 2023</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;honemik</footer><a class=entry-link aria-label="post link to SFC 馬力歐賽車 - 遊玩心得" href=https://honemik.github.io/post/2023-06-15/></a></article><footer class=page-footer><nav class=pagination><a class=prev href=https://honemik.github.io/post/>«&nbsp;Prev&nbsp;
+如果數學能力夠，其實不難，就是些三角函數跟座標的基本概念應該就看得懂了，裡頭很詳細的描述他實際上是怎麼算的，以及怎麼利用。
+心得上，第一，我根本沒怎麼玩過2D像素化的馬力歐賽車，綜觀整個馬力歐賽車的系列作，也只有GBA上的馬力歐賽車advanced也是2D，其他都是3D畫面了，2D畫面中，每個像素點比起真正的3D畫面還要難看出遠近太多了，有時以為很近的東西很遠，以為很遠的東西很近，而且像素化的畫面，看久了對眼睛好不舒服，銳利化鋸齒不斷改變的畫面，加上不是使用傳統的CRT映像管螢幕，眼睛的壓力非常的大，很難好好享受這款遊戲。
+但是能夠體驗到當時開發用的軟體，以及看到一個從小玩到大非常紅又好玩的遊戲，最初的模樣，背後的歷史，又或是硬體的資訊，我自己是很滿足的，當時的開發背景，讓這些充滿創意的開發人員腦力激盪出一個與眾不同的賽車遊戲，讓賽車不僅僅是在賽道上奔馳追逐著速度，還是讓老少共同在賽道上，快樂的互相追逐，讓馬莉歐不僅僅是個水管工，還是一個速度與激情的賽車手
+馬力歐流出大整理https://tcrf.net/Proto:Super_Mario_Kart
+MRL314的smknov91的推特https://twitter.com/LF_MrL314/status/1420478096105525250
+github: https://github.com/MrL314/smknov91
+gigaleak1位置: https://archive.org/details/gigaleak1
+馬力歐賽車遊戲說明書: https://archive.org/details/supermariokartsfclq/page/n27/mode/1up
+維基CIC:https://en.wikipedia.org/wiki/CIC_(Nintendo)
+SNES開發手冊第二本: https://archive.org/details/SNESDevManual/book2/page/n317/mode/2up?view=theater
+GAMING HISTORIAN: https://youtu.be/NDHZKYETDyU</p></div><footer class=entry-footer><span title='2023-06-15 00:00:00 +0000 UTC'>June 15, 2023</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;honemik</footer><a class=entry-link aria-label="post link to SFC 馬力歐賽車 - 遊玩心得" href=https://honemik.github.io/post/2023-06-15/></a></article><footer class=page-footer><nav class=pagination><a class=prev href=https://honemik.github.io/post/>«&nbsp;Prev&nbsp;
 </a><a class=next href=https://honemik.github.io/post/page/3/>Next&nbsp;&nbsp;»</a></nav></footer></main><footer class=footer><span>&copy; 2024 <a href=https://honemik.github.io/>honemik</a></span> ·
 <span>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
