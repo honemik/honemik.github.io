@@ -63,6 +63,7 @@ params:
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: true
+    social: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
